@@ -1,6 +1,6 @@
 # LinkedIn_Clone
 
-In this repository, I made a clone for LınkedIn.
+In this repository, I made a clone for LinkedIn.
 
 ### Used Tecnologies
 * HTML
